@@ -33,7 +33,7 @@ The model predicts one of the following six conditions:
 
 ## 🖼️ Preview
 
-![Sample Video](assets/Execution (1).mp4)
+![Sample Video](assets/Execution.mp4)
 ![Faults detected](assets/Defects.png)
 
 ---
