@@ -31,6 +31,13 @@ The model predicts one of the following six conditions:
 
 ---
 
+## 🖼️ Preview
+
+![Sample Video](assets/Execution.mp4)
+![Faults detected](assets/Defects.png)
+
+---
+
 ## 🧰 Why ResNet-50?
 We used **ResNet-50** instead of a plain CNN because:
 - 🔷 Enables **deeper networks** (50+ layers) thanks to residual (skip) connections.
